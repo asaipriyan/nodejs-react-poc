@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Melisa",
+    "last_name": "Turpey",
+    "email": "mturpey0@usa.gov",
+    "gender": "Male",
+    "ip_address": "195.14.214.122"
+  },
+  {
+    "id": 2,
+    "first_name": "Karrie",
+    "last_name": "Strowger",
+    "email": "kstrowger1@state.tx.us",
+    "gender": "Agender",
+    "ip_address": "150.160.148.100"
+  },
+  {
+    "id": 3,
+    "first_name": "Gwendolen",
+    "last_name": "Recher",
+    "email": "grecher2@dot.gov",
+    "gender": "Female",
+    "ip_address": "39.90.205.11"
+  },
+  {
+    "id": 4,
+    "first_name": "Jacquelin",
+    "last_name": "McSorley",
+    "email": "jmcsorley3@google.de",
+    "gender": "Non-binary",
+    "ip_address": "54.235.36.137"
+  },
+  {
+    "id": 5,
+    "first_name": "Gannon",
+    "last_name": "Hayer",
+    "email": "ghayer4@pinterest.com",
+    "gender": "Female",
+    "ip_address": "141.236.254.12"
+  },
+  {
+    "id": 6,
+    "first_name": "Chrissie",
+    "last_name": "Emburey",
+    "email": "cemburey5@umich.edu",
+    "gender": "Male",
+    "ip_address": "82.62.101.181"
+  },
+  {
+    "id": 7,
+    "first_name": "Ethyl",
+    "last_name": "Simond",
+    "email": "esimond6@sourceforge.net",
+    "gender": "Bigender",
+    "ip_address": "173.253.195.86"
+  },
+  {
+    "id": 8,
+    "first_name": "Glynn",
+    "last_name": "Brimilcombe",
+    "email": "gbrimilcombe7@quantcast.com",
+    "gender": "Bigender",
+    "ip_address": "185.237.68.235"
+  },
+  {
+    "id": 9,
+    "first_name": "Immanuel",
+    "last_name": "Glyn",
+    "email": "iglyn8@businessweek.com",
+    "gender": "Genderfluid",
+    "ip_address": "51.176.24.13"
+  },
+  {
+    "id": 10,
+    "first_name": "Cheryl",
+    "last_name": "Haggath",
+    "email": "chaggath9@amazon.de",
+    "gender": "Non-binary",
+    "ip_address": "58.238.19.110"
+  }
+]
